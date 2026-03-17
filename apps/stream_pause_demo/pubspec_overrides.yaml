@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: shared_repos
+dependency_overrides:
+  shared_repos:
+    path: ../../packages/shared_repos

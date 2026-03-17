@@ -1,0 +1,23 @@
+name: network_retry_demo
+description: Demonstrates Riverpod 3 retry strategy configuration.
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^3.0.0
+  shared_repos:
+    path: ../../packages/shared_repos
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  custom_lint: ^0.8.0
+  riverpod_lint: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,10 @@
+name: riverpod3_workspace
+description: Workspace tooling for Riverpod 3 demos.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dev_dependencies:
+  melos: ^5.2.0

@@ -1,0 +1,13 @@
+name: riverpod_v2_style
+description: Riverpod 2.x style sample for migration guide.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  riverpod: ^2.4.0
+
+dev_dependencies:
+  lints: ^3.0.0

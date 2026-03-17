@@ -1,0 +1,15 @@
+name: riverpod_v3_final
+description: Riverpod 3 final style sample for migration guide.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  riverpod: ^3.0.0
+  shared_repos:
+    path: ../../packages/shared_repos
+dev_dependencies:
+  custom_lint: ^0.8.0
+  riverpod_lint: ^3.0.0
