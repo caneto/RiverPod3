@@ -1,7 +1,5 @@
 # Riverpod 2.x Style Sample
 
-Legacy baseline used in the migration guide. 한국어 설명은 [`README.ko.md`](README.ko.md)를 참고하세요.
-
 ## Purpose
 - Captures the pre-Riverpod 3 approach using `StateNotifierProvider` and internal resource ownership.
 - Serves as the before snapshot when comparing against `migration/v3_final`.
